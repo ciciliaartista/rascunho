@@ -1,0 +1,46 @@
+	{
+		"title": "Copa 2018: Assista aos gols de França 4 x 2 Croácia",
+		"id": "copa-2018-assista-aos-gols-de-franca-4-x-2-croacia-04024D193464DCA16326", 
+		"mediaId":16472425,
+		"url": "http://mais.uol.com.br/view/fazhdwjcsfuy/copa-2018-assista-aos-gols-de-franca-4-x-2-croacia-04024D193464DCA16326?types=A&amp;", 
+		"mediaType": "V",
+		"indVisibility": "T",
+		"moderateNote":  false,
+		"allowAnonymousComment":  false,
+		"allowNotes": "N",
+		"edFilter": "editorial",
+					"thumbnail": "http://thumb.mais.uol.com.br/16472425",
+			"thumbSmall": "http://thumb.mais.uol.com.br/16472425-small.jpg?ver=0",
+			"thumbMedium": "http://thumb.mais.uol.com.br/16472425-medium.jpg?ver=0",
+			"thumbLarge": "http://thumb.mais.uol.com.br/16472425-large.jpg?ver=0",
+			"thumbWmedium": "http://thumb.mais.uol.com.br/16472425-wmedium.jpg?ver=0",
+			"thumbWlarge": "http://thumb.mais.uol.com.br/16472425-wlarge.jpg?ver=0",
+			"player": "http://player.mais.uol.com.br/player_video_v5.swf",
+			"duration": "4:01",
+			"numThumbnailIdentifier" : 3,
+			"thumbVersion" : 0,
+			 "idtProductList": [],
+						"formats" : [  2,  5,  7,  9,  10,  11  ],
+		
+		"description":  "" ,
+
+		
+		"adultContent":false,
+		"author": "Gols da Copa", 
+		"authorPage": "http://mais.uol.com.br/sys/content/author?types=A&amp;codProfile=fazhdwjcsfuy", 
+		"codProfile": "fazhdwjcsfuy",
+		"views": 21547, 
+		"comments": 0,		"favorites": 0, 
+		"rating": 0.0,
+		"votes": 0,
+		"publishedAt": "2018-07-15 16:36:00",
+		"blockEmbed": false  ,
+		"subscriberMedia": false  ,
+
+										
+					"embedCode":"<iframe width=\"640\" height=\"360\" allow=\"autoplay; fullscreen\" id=\"player_16472425\" src=\"https://player.mais.uol.com.br/?mediaId=16472425&type=video\" allowfullscreen frameborder=\"0\"></iframe>",
+		
+		"idtTagService": "" ,
+		"idtSubject": 0 ,
+		"tags": [{"id": 669534, "description": "scm"}]
+	}

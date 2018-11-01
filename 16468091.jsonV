@@ -1,0 +1,46 @@
+	{
+		"title": "Edu Guedes ensina preparar sanduíches da Copa",
+		"id": "edu-guedes-ensina-preparar-sanduiches-da-copa-04024C9C3070D8A16326", 
+		"mediaId":16468091,
+		"url": "http://mais.uol.com.br/view/w72sr1ihch6f/edu-guedes-ensina-preparar-sanduiches-da-copa-04024C9C3070D8A16326?types=A&amp;", 
+		"mediaType": "V",
+		"indVisibility": "T",
+		"moderateNote":  false,
+		"allowAnonymousComment":  false,
+		"allowNotes": "N",
+		"edFilter": "editorial",
+					"thumbnail": "http://thumb.mais.uol.com.br/16468091",
+			"thumbSmall": "http://thumb.mais.uol.com.br/16468091-small.jpg?ver=1",
+			"thumbMedium": "http://thumb.mais.uol.com.br/16468091-medium.jpg?ver=1",
+			"thumbLarge": "http://thumb.mais.uol.com.br/16468091-large.jpg?ver=1",
+			"thumbWmedium": "http://thumb.mais.uol.com.br/16468091-wmedium.jpg?ver=1",
+			"thumbWlarge": "http://thumb.mais.uol.com.br/16468091-wlarge.jpg?ver=1",
+			"player": "http://player.mais.uol.com.br/player_video_v5.swf",
+			"duration": "45:32",
+			"numThumbnailIdentifier" : 3,
+			"thumbVersion" : 1,
+			 "idtProductList": [],
+						"formats" : [  2,  9,  10,  11  ],
+		
+		"description":  "No clima da Copa do Mundo, Edu Guedes ensina preparar sanduíches de vários países com a sua filha Maria." ,
+
+		
+		"adultContent":false,
+		"author": "RedeTV! Entretenimento", 
+		"authorPage": "http://mais.uol.com.br/sys/content/author?types=A&amp;codProfile=w72sr1ihch6f", 
+		"codProfile": "w72sr1ihch6f",
+		"views": 771, 
+		"comments": 0,		"favorites": 0, 
+		"rating": 0.0,
+		"votes": 0,
+		"publishedAt": "2018-07-05 11:54:00",
+		"blockEmbed": false  ,
+		"subscriberMedia": false  ,
+
+										
+					"embedCode":"<iframe width=\"640\" height=\"360\" allow=\"autoplay; fullscreen\" id=\"player_16468091\" src=\"https://player.mais.uol.com.br/?mediaId=16468091&type=video\" allowfullscreen frameborder=\"0\"></iframe>",
+		
+		"idtTagService": "14759,16983" ,
+		"idtSubject": 0 ,
+		"tags": [{"id": 1211, "description": "receitas"},{"id": 57923, "description": "edu guedes"}]
+	}
