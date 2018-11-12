@@ -1,0 +1,45 @@
+{
+		"title": "Apresentadoras de TV tiram a roupa e agitam Jogos Pan-Americanos",
+		"id": "apresentadoras-de-tv-tiram-a-roupa-e-agitam-jogos-panamericanos-04028C183472D0A95326", 
+		"mediaId":15549402,
+		"url": "http://mais.uol.com.br/view/t2pjn3videvl/apresentadoras-de-tv-tiram-a-roupa-e-agitam-jogos-panamericanos-04028C183472D0A95326?types=A&amp;", 
+		"mediaType": "V",
+		"indVisibility": "T",
+		"moderateNote":  false,
+		"allowAnonymousComment":  false,
+		"allowNotes": "T",
+		"edFilter": "editorial",
+					"thumbnail": "http://thumb.mais.uol.com.br/15549402",
+			"thumbSmall": "http://thumb.mais.uol.com.br/15549402-small.jpg?ver=2",
+			"thumbMedium": "http://thumb.mais.uol.com.br/15549402-medium.jpg?ver=2",
+			"thumbLarge": "http://thumb.mais.uol.com.br/15549402-large.jpg?ver=2",
+			"thumbWmedium": "http://thumb.mais.uol.com.br/15549402-wmedium.jpg?ver=2",
+			"thumbWlarge": "http://thumb.mais.uol.com.br/15549402-wlarge.jpg?ver=2",
+			"player": "http://player.mais.uol.com.br/player_video_v5.swf",
+			"duration": "0:46",
+			"numThumbnailIdentifier" : 3,
+			"thumbVersion" : 2,
+			 "idtProductList": [],
+						"formats" : [  2,  5,  7,  9,  10  ],
+		
+		"description":  "" ,
+
+		
+		"adultContent":false,
+		"author": "UOL Esporte", 
+		"authorPage": "http://mais.uol.com.br/sys/content/author?types=A&amp;codProfile=t2pjn3videvl", 
+		"codProfile": "t2pjn3videvl",
+		"views": 74637, 
+		"comments": 0,		"favorites": 0, 
+		"rating": 4.0,
+		"votes": 8,
+		"publishedAt": "2015-07-24 05:58:00",
+		"blockEmbed": false  ,
+		"subscriberMedia": false  ,
+
+					"embedCode":"<object width=\"457\" height=\"368\" id=\"player_15549402\" classid=\"clsid:D27CDB6E-AE6D-11cf-96B8-444553540000\" ><param name=\"allowFullScreenInteractive\" value=\"true\" /><param value=\"true\" name=\"allowfullscreen\"/><param value=\"http://player.mais.uol.com.br/player_video_v5.swf?mediaId=15549402&ver=2\" name=\"movie\"/><param value=\"always\" name=\"allowscriptaccess\"/><param value=\"window\" name=\"wmode\"/><embed id=\"player_15549402\" allowFullScreenInteractive=\"true\" width=\"457\" height=\"368\" type=\"application/x-shockwave-flash\" allowscriptaccess=\"always\" allowfullscreen=\"true\" src=\"http://player.mais.uol.com.br/player_video_v5.swf?mediaId=15549402&ver=2\" wmode=\"window\" /></embed><noscript><a href=\"http://mais.uol.com.br/view/15549402\">Apresentadoras de TV tiram a roupa e agitam Jogos Pan-Americanos</a></noscript></object>",
+		
+		"idtTagService": ",55626,12810,6988,76228" ,
+		"idtSubject": 11903214 ,
+		"tags": [{"id": 269, "description": "esporte"},{"id": 2041, "description": "pan"},{"id": 60727, "description": "jogos pan-americanos"},{"id": 486976, "description": "aplicativo notícias"},{"id": 976727, "description": "jogos pan-americanos de 2015"},{"id": 976728, "description": "pan de toronto-2015"},{"id": 976729, "description": "pan-americano 2015"},{"id": 976730, "description": "toronto-2015"},{"id": 976731, "description": "pan-2015"},{"id": 976732, "description": "jogos pan-americanos toronto 2015"}]
+	}
